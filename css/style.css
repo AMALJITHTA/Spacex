@@ -304,10 +304,10 @@ footer {
 }
   @media (max-width: 425px) {
     .footer-show {
-      margin: 0px -70px 0px 0px;
+      margin: 0px -81px 0px 0px;
     }
     .highhead{
-      margin: 0px -70px 0px 0px;
+      margin: 0px -83px 0px 0px;
     }
 }
 
